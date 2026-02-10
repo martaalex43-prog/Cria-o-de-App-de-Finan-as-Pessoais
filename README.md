@@ -172,10 +172,12 @@ A tela abaixo foi construída com HTML e CSS e simula a interação com o **Agen
 ## 🖼️ Imagens das Interações
 
 ### Interação com Copilot
-![Interação com Copilot](attachments/copilot.png)
+
+https://copilot.microsoft.com/shares/FUHk4zbDK2Csk8dgbzyzs
 
 ### Simulação em HTML/CSS
-![Simulação de Tela](attachments/simulacao.png)
+
+
 
 ---
 
