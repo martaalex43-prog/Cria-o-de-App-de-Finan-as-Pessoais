@@ -27,8 +27,7 @@
 
 
 ### Simulação em HTML/CSS
-
-https://copilot.microsoft.com/th/id/BCO.fd16c0fe-8199-4253-b5f5-26873f6779c2.png
+https://copilot.microsoft.com/shares/FUHk4zbDK2Csk8dgbzyzs
 
 
 
