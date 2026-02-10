@@ -24,13 +24,14 @@
 
 ## 🖼️ Imagens das Interações
 
-### Interação com Copilot
-![Interação com Copilot](attachments/copilot.png)
+
 
 ### Simulação em HTML/CSS
-![Simulação de Tela](attachments/simulacao.png)
 
----
+https://copilot.microsoft.com/th/id/BCO.fd16c0fe-8199-4253-b5f5-26873f6779c2.png
+
+
+
 
 ## 🚀 Roadmap – App de Finanças Pessoais
 
