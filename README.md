@@ -1,4 +1,4 @@
-# 📌 PRD – App de Finanças Pessoais Conversacional
+# 📌 PRD – App de Finanças Pessoais Conversacional com Vibe Coding
 
 ## Visão Geral
 -  Objetivo: criar um aplicativo de finanças pessoais simples e prático.  
