@@ -306,5 +306,3 @@ Aprendi que devemos detalhar praticamente tudo para que a IA entregue o resultad
 Se não houver interação, a IA também não entende exatamente o que queremos para nossos projetos.
 
 
-</body>
-</html>
